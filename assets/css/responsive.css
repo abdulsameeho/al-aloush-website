@@ -157,6 +157,12 @@
     .footer-bottom .text-right {
         margin-top: 10px;
     }
+    #google_translate_element {
+        position: absolute;
+        top: 20px; /* Adjust this value to position it vertically as needed */
+        right: 10px; /* Adjust this value to control the distance from the right end */
+        z-index: 1;
+    }
 }
 
 /* Mobile Layout: 320px. */
@@ -466,6 +472,12 @@
      .footer-bottom {
          margin-top: 35px;
     }
+    #google_translate_element {
+        position: absolute;
+        top: 20px; /* Adjust this value to position it vertically as needed */
+        right: 10px; /* Adjust this value to control the distance from the right end */
+        z-index: 1;
+    }
 }
 
 /* Wide Mobile Layout: 480px. */
@@ -499,5 +511,11 @@
     }
     .cont-details {
         margin-bottom: 20px;
+    }
+    #google_translate_element {
+        position: absolute;
+        top: 20px; /* Adjust this value to position it vertically as needed */
+        right: 10px; /* Adjust this value to control the distance from the right end */
+        z-index: 1;
     }
 }

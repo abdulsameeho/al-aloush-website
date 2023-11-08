@@ -2717,3 +2717,73 @@ footer .info .meta-title a {
     position: relative;
     z-index: 1;
 }
+ /* Hide "Powered by Google" attribution */
+ .skiptranslate.goog-logo-link {
+    display: none !important;
+}
+.VIpgJd-ZVi9od-l4eHX-hSRGPd {
+    display: none !important;
+}
+
+/* Remove "Translate" label */
+.goog-te-gadget {
+    font-size: 0; /* Hide the text by setting font size to 0 */
+}
+
+
+.skiptranslate.goog-te-gadget {
+   font-size: 0;
+}
+
+.skiptranslate.goog-te-gadget a img,
+.skiptranslate.goog-te-gadget a {
+    display: none !important;
+}
+.VIpgJd-ZVi9od-ORHb-OEVmcd.skiptranslate {
+    display: none !important;
+}
+
+.goog-te-gadget-simple .goog-te-gadget-icon {
+    display: none;
+}
+
+.goog-te-gadget-simple::before {
+    content: "عربي";
+}
+.goog-te-gadget-simple {
+    background-color: rgb(255, 255, 255)!important;
+    border: 1px solid !important;
+    color: #000000 !important;
+    font-size: 16px !important;
+    display: inline-block !important;
+    padding: 3px 10px !important;
+    cursor: pointer !important;
+    border-radius: 5px !important;
+    transition: background-color 0.3s !important;
+}
+#google_translate_element {
+    position: absolute;
+    top: 20px;
+    right: 20px; 
+    z-index: 1;
+}
+
+.VIpgJd-ZVi9od-ORHb-bN97Pc {
+    display: none !important;
+}
+
+
+
+.goog-te-combo,.VIpgJd-ZVi9od-ORHb *,.VIpgJd-ZVi9od-SmfZ *,.VIpgJd-ZVi9od-xl07Ob *,.VIpgJd-ZVi9od-vH1Gmf *,.VIpgJd-ZVi9od-l9xktf * {
+    font-family: arial;
+    font-size: 15pt !important;
+}
+
+
+a.VIpgJd-ZVi9od-vH1Gmf-ibnC6b-gk6SMd .text,
+a.VIpgJd-ZVi9od-vH1Gmf-ibnC6b-gk6SMd .indicator {
+    display: none !important;
+    font-size: 13px;
+}
+
+
