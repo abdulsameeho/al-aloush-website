@@ -2748,7 +2748,8 @@ footer .info .meta-title a {
 }
 
 .goog-te-gadget-simple::before {
-    content: "عربي";
+    content: "عربي - Eng";
+    
 }
 .goog-te-gadget-simple {
     background-color: rgb(255, 255, 255)!important;
