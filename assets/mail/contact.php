@@ -37,7 +37,7 @@ if(get_magic_quotes_gpc()) {
 }
 
 
-$address = "info@alaloush.group";
+$address = "abdulsameehpm2525@gmail.com";
 
 
 
