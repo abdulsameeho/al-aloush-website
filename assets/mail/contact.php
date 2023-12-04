@@ -37,12 +37,12 @@ if(get_magic_quotes_gpc()) {
 }
 
 
-$address = "abdulsameehpm2525@gmail.com";
+$address = "info@alaloush.group";
 
 
 
 
-$e_subject = 'Contact Form';
+$e_subject = 'Contact Form from website';
 
 
 
